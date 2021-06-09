@@ -1,1 +1,1 @@
-# Athletes Uses a dataset from KAggle that hold Athlete's data from Olympic games
+# Athletes Uses a dataset from Kaggle that hold Athlete's data from Olympic games
